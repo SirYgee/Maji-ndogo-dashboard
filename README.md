@@ -49,7 +49,8 @@ The Maji Ndogo project is a nationwide initiative aimed at improving access to s
 * Filtration systems are costly but necessary
 * More time and resources required to reach nation‑wide coverage
 
-### Screenshot/demo
+### Screenshot/demo 
+example  ![Dasboard preview](https://github.com/SirYgee/Maji-ndogo-dashboard/blob/main/Maji%20ndogo.png)
 
 
 ### 6. Conclusion
